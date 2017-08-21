@@ -19,3 +19,5 @@ echo "Reading Execute Build Environment Variables..."
 echo $Execute_Build_API_KEY
 echo $Execute_Build_Secure_KEY
 echo "End Reading Execute Build Environment Variables."
+echo "***OS details***"
+lsb_release -a
