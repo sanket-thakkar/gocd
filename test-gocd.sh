@@ -1,5 +1,5 @@
 #!/bin/sh
-#Script to print env variables
+#Script for env variables
 
 echo "Printing env variables..."
 echo $GO_SERVER_URL
