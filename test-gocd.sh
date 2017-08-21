@@ -16,6 +16,6 @@ echo $GO_FROM_REVISION
 echo "End printing env variables."
 
 echo "Reading Execute Build Environment Variables..."
-echo $Execute-Build-API-KEY
-echo $Execute-Build-Secure-KEY
+echo $Execute_Build_API_KEY
+echo $Execute_Build_Secure_KEY
 echo "End Reading Execute Build Environment Variables."
